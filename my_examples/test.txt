@@ -1,4 +1,0 @@
-Hello, world!
-This is a test file.
-We are writing to the file.
-This is the last line.
